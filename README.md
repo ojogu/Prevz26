@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Precious Ojogu
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm Precious Ojogu 👋
 
-<!---
-Prevz26/Prevz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my coding corner! I'm an AI enthusiast with a passion for backend development and a drive to explore the exciting world of artificial intelligence.
+
+## About Me
+
+I specialize in backend development and I'm currently on a journey to dive deep into AI technologies.
+
+## My Skills
+
+- **Programming Languages:**  Python and C++.
+- **Backend Development:** Experienced in crafting robust backend systems.
+- **Artificial Intelligence:** Passionate about AI and its potential.
