@@ -1,10 +1,10 @@
 Hello, I'm Precious Ojogu 👋
 
-Welcome to my coding corner! I'm an AI enthusiast with a passion for backend development and a drive to explore the exciting world of artificial intelligence and create solutions to solve real-world problems.
+Welcome to my coding corner! I'm an AI enthusiast passionate about backend and cloud development and creating solutions to solve real-world problems.
 
 ## About Me
 
-I specialize in backend development and I'm currently on a journey to dive deep into AI technologies.
+I specialize in backend development and cloud computing, creating solutions to problems.
 
 ## My Skills
 
