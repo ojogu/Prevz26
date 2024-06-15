@@ -10,4 +10,4 @@ I specialize in backend development and cloud computing, creating solutions to p
 
 - **Programming Languages:**  Python.
 - **Backend Development:** Experienced in crafting robust backend systems.
-- **Artificial Intelligence:** Passionate about AI and its potential.
+
